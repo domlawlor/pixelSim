@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="code\main.cpp" />
+    <ClCompile Include="code\json.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="code\main.h" />
+    <ClInclude Include="code\types.h" />
+    <ClInclude Include="code\windowsDefines.h" />
+    <ClInclude Include="code\hash.h" />
+  </ItemGroup>
+</Project>
